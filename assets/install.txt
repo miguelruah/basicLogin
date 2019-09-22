@@ -1,0 +1,16 @@
+GITHub
+    pull the Git repo for basicLogin from GitHub: https://github.com/miguelruah/basicLogin
+
+hosts file
+    if installing on localhost: update hosts file with basicLogin.local (not necessary if you have a hosted domain)
+
+database
+    create and populate database using \sql\basicLogin.sql
+    configure a user to access this database with simple CRUD privileges
+
+\config\config.php
+    provide database setup (including database user), mail setup, etc
+
+Apache
+    confirm the .htaccess file is in the project's root folder
+    config the right paths in \apache\basicLogin.conf and add it to apache (reboot apache)

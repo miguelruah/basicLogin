@@ -1,0 +1,66 @@
+2019/09/21 18:40:24
+Dashboard.php => I found a session email, will check timeout
+
+2019/09/21 18:40:24
+I'm inside verifyTimeout(): time()='1569084024', strtotime(dbrow['session_last_operation'])='1569084024'
+
+2019/09/21 18:40:24
+timeElapsed=0
+
+2019/09/21 18:40:56
+Finished destroying session data in the database for miguelruah@gmail.com
+
+2019/09/21 18:40:56
+Now session_token= and session_last_operation=''
+
+2019/09/21 18:41:32
+After calling loginclass->callMailer() the result was: [1, 0]
+
+2019/09/21 18:43:30
+Dashboard.php => I found a session email, will check timeout
+
+2019/09/21 18:43:30
+I'm inside verifyTimeout(): time()='1569084210', strtotime(dbrow['session_last_operation'])='1569084210'
+
+2019/09/21 18:43:30
+timeElapsed=0
+
+2019/09/21 18:44:28
+Dashboard.php => I found a session email, will check timeout
+
+2019/09/21 18:44:28
+I'm inside verifyTimeout(): time()='1569084268', strtotime(dbrow['session_last_operation'])='1568911410'
+
+2019/09/21 18:44:28
+timeElapsed=172858
+
+2019/09/21 18:44:39
+Finished destroying session data in the database for bigredwolf1967@hotmail.com
+
+2019/09/21 18:44:39
+Now session_token= and session_last_operation=''
+
+2019/09/21 20:01:47
+Dashboard.php => I found a session email, will check timeout
+
+2019/09/21 20:01:47
+I'm inside verifyTimeout(): time()='1569088907', strtotime(dbrow['session_last_operation'])='1569088907'
+
+2019/09/21 20:01:48
+timeElapsed=0
+
+2019/09/21 20:02:04
+Finished destroying session data in the database for miguelruah@gmail.com
+
+2019/09/21 20:02:04
+Now session_token= and session_last_operation=''
+
+2019/09/21 20:02:57
+Dashboard.php => I found a session email, will check timeout
+
+2019/09/21 20:02:57
+I'm inside verifyTimeout(): time()='1569088977', strtotime(dbrow['session_last_operation'])='1569088977'
+
+2019/09/21 20:02:57
+timeElapsed=0
+
